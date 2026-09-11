@@ -1,0 +1,223 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/example/noisynight/ui/main/MainScreenTest.kt</file>
+  <line>10</line>
+  <module>Noisy_Night.app.androidTest</module>
+  <package>com.example.noisynight.ui.main</package>
+  <entry_point TYPE="class" FQNAME="com.example.noisynight.ui.main.MainScreenTest" />
+  <language>kotlin</language>
+  <offset>0</offset>
+  <length>64</length>
+  <highlighted_element>/** UI tests for [com.example.noisynight.ui.main.MainScreen]. */</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Class is not instantiated.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/example/noisynight/ui/main/MainScreenTest.kt</file>
+  <line>15</line>
+  <module>Noisy_Night.app.androidTest</module>
+  <package>com.example.noisynight.ui.main</package>
+  <entry_point TYPE="method" FQNAME="com.example.noisynight.ui.main.MainScreenTest void setup()" />
+  <language>kotlin</language>
+  <offset>2</offset>
+  <length>7</length>
+  <highlighted_element>@Before</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/example/noisynight/ui/main/MainScreenTest.kt</file>
+  <line>20</line>
+  <module>Noisy_Night.app.androidTest</module>
+  <package>com.example.noisynight.ui.main</package>
+  <entry_point TYPE="method" FQNAME="com.example.noisynight.ui.main.MainScreenTest void firstItem_exists()" />
+  <language>kotlin</language>
+  <offset>2</offset>
+  <length>5</length>
+  <highlighted_element>@Test</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/noisynight/MainActivity.kt</file>
+  <line>30</line>
+  <module>Noisy_Night.app.main</module>
+  <package>com.example.noisynight</package>
+  <entry_point TYPE="class" FQNAME="com.example.noisynight.MainActivity" />
+  <language>kotlin</language>
+  <offset>0</offset>
+  <length>42</length>
+  <highlighted_element>class MainActivity : ComponentActivity() {</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Class is not instantiated.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/noisynight/NoiseAudioService.kt</file>
+  <line>29</line>
+  <module>Noisy_Night.app.main</module>
+  <package>com.example.noisynight</package>
+  <entry_point TYPE="class" FQNAME="com.example.noisynight.NoiseAudioService" />
+  <language>kotlin</language>
+  <offset>0</offset>
+  <length>37</length>
+  <highlighted_element>class NoiseAudioService : Service() {</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Class is not instantiated.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/test/java/com/example/noisynight/NoiseGeneratorsTest.kt</file>
+  <line>7</line>
+  <module>Noisy_Night.app.unitTest</module>
+  <package>com.example.noisynight</package>
+  <entry_point TYPE="class" FQNAME="com.example.noisynight.NoiseGeneratorsTest" />
+  <language>kotlin</language>
+  <offset>0</offset>
+  <length>27</length>
+  <highlighted_element>class NoiseGeneratorsTest {</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Class is not instantiated.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/test/java/com/example/noisynight/NoiseGeneratorsTest.kt</file>
+  <line>9</line>
+  <module>Noisy_Night.app.unitTest</module>
+  <package>com.example.noisynight</package>
+  <entry_point TYPE="method" FQNAME="com.example.noisynight.NoiseGeneratorsTest void testWhiteNoiseGenerator()" />
+  <language>kotlin</language>
+  <offset>4</offset>
+  <length>5</length>
+  <highlighted_element>@Test</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/test/java/com/example/noisynight/NoiseGeneratorsTest.kt</file>
+  <line>26</line>
+  <module>Noisy_Night.app.unitTest</module>
+  <package>com.example.noisynight</package>
+  <entry_point TYPE="method" FQNAME="com.example.noisynight.NoiseGeneratorsTest void testPinkNoiseGenerator()" />
+  <language>kotlin</language>
+  <offset>4</offset>
+  <length>5</length>
+  <highlighted_element>@Test</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/test/java/com/example/noisynight/NoiseGeneratorsTest.kt</file>
+  <line>43</line>
+  <module>Noisy_Night.app.unitTest</module>
+  <package>com.example.noisynight</package>
+  <entry_point TYPE="method" FQNAME="com.example.noisynight.NoiseGeneratorsTest void testBrownNoiseGenerator()" />
+  <language>kotlin</language>
+  <offset>4</offset>
+  <length>5</length>
+  <highlighted_element>@Test</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/test/java/com/example/noisynight/NoiseGeneratorsTest.kt</file>
+  <line>60</line>
+  <module>Noisy_Night.app.unitTest</module>
+  <package>com.example.noisynight</package>
+  <entry_point TYPE="method" FQNAME="com.example.noisynight.NoiseGeneratorsTest void testGreenNoiseGenerator()" />
+  <language>kotlin</language>
+  <offset>4</offset>
+  <length>5</length>
+  <highlighted_element>@Test</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/test/java/com/example/noisynight/ui/main/MainScreenViewModelTest.kt</file>
+  <line>11</line>
+  <module>Noisy_Night.app.unitTest</module>
+  <package>com.example.noisynight.ui.main</package>
+  <entry_point TYPE="class" FQNAME="com.example.noisynight.ui.main.MainScreenViewModelTest" />
+  <language>kotlin</language>
+  <offset>0</offset>
+  <length>31</length>
+  <highlighted_element>class MainScreenViewModelTest {</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Class is not instantiated.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/test/java/com/example/noisynight/ui/main/MainScreenViewModelTest.kt</file>
+  <line>12</line>
+  <module>Noisy_Night.app.unitTest</module>
+  <package>com.example.noisynight.ui.main</package>
+  <entry_point TYPE="method" FQNAME="com.example.noisynight.ui.main.MainScreenViewModelTest void uiState_initiallyLoading()" />
+  <language>kotlin</language>
+  <offset>2</offset>
+  <length>5</length>
+  <highlighted_element>@Test</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/test/java/com/example/noisynight/ui/main/MainScreenViewModelTest.kt</file>
+  <line>18</line>
+  <module>Noisy_Night.app.unitTest</module>
+  <package>com.example.noisynight.ui.main</package>
+  <entry_point TYPE="method" FQNAME="com.example.noisynight.ui.main.MainScreenViewModelTest void uiState_onItemSaved_isDisplayed()" />
+  <language>kotlin</language>
+  <offset>2</offset>
+  <length>5</length>
+  <highlighted_element>@Test</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+</problems>
